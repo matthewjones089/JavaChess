@@ -1,6 +1,6 @@
 # JavaChess
 
-A Chess game implemented in Java by Matthew Jones.
+A Chess game implemented in Java.
 
 This is based on the excellent ChessCore in C# by Adam Bernet.
 
