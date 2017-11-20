@@ -1,4 +1,4 @@
-JavaChess
+# JavaChess
 
 A Chess game implemented in Java by Matthew Jones.
 
